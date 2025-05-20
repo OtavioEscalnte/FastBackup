@@ -21,4 +21,4 @@ This script performs a quick and compressed backup of a given source directory u
 ## 📦 Usage
 
 ```bash
-./backup.sh /path/source /path/destination
+./FastBackup.sh /path/source /path/destination
