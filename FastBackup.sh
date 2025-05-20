@@ -2,7 +2,7 @@
 
 # Author: Otávio Escalante
 
-# Description: Script to automaticate backup using compression
+# Description: Script to automate backup using compression
 
 echo " ███████╗ █████╗ ███████╗████████╗██████╗  █████╗  ██████╗██╗  ██╗██╗   ██╗██████╗ "
 echo " ██╔════╝██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║ ██╔╝██║   ██║██╔══██╗"
